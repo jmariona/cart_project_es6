@@ -1,0 +1,25 @@
+{
+  "editor.fontWeight": "bold",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Material Neutral",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 13,
+  "extensions.ignoreRecommendations": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.useTabs": true,
+  "csharp.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "[javascript]":{
+    "editor.formatOnSave": true
+  },
+
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true
+
+}
